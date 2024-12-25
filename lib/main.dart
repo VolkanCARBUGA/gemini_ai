@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:gemini_ai/onboarding.dart';
-import 'package:gemini_ai/splash_screen.dart';
 import 'package:gemini_ai/theme_notifier.dart';
 import 'package:gemini_ai/themes.dart';
 
